@@ -1,0 +1,10 @@
+{
+    "version": 2,
+    "alias" : "dannywong.now.sh",
+    "builds": [
+      {
+        "src": "package.json",
+        "use": "@now/next"
+      }
+    ]
+  }
